@@ -7,13 +7,14 @@ In my quest for a holistic learning experience, I actively participated in sever
 
 Currently, I am looking for a dynamic and committed team environment to further enhance my expertise and contribute to the collective success of the company. My desire is to continue a continuous learning journey, collaborate with like-minded professionals and play an active role in advancing the company's goals and creating a thriving work environment.
 ***
-<div display="flex" >
+<div display="flex" justify-content="space-between" >
   
 <img  display="flex"  width="auto" height="330px" src="https://github.com/Mohsen-Kardani/Mohsen-Kardani/blob/main/Mastery.jpg?raw=true"/>
 
+<img display="flex" width="auto" height="330px" src="https://github.com/Mohsen-Kardani/Mohsen-Kardani/blob/main/Damavand%20mountain.jpg?raw=true" />
+
 <img display="flex" width="auto" height="330px"  src="https://github.com/Mohsen-Kardani/Mohsen-Kardani/blob/main/Aesthetic%20Study%20Space.jpg?raw=true" />
 
-<img display="flex" width="auto" height="330px" src="https://github.com/Mohsen-Kardani/Mohsen-Kardani/blob/main/Damavand%20mountain.jpg?raw=true" />
 <h2 align="left">skills</h2>
 </div>
 
@@ -25,3 +26,18 @@ Currently, I am looking for a dynamic and committed team environment to further 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+___
+<h2>Social media</h2>
+<div display="flex" >
+
+<a><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/><a/>
+
+<a><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/><a/>
+
+<a><img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app.png" alt="telegram-app"/><a/>
+
+<a><img width="48" height="48" src="https://img.icons8.com/emoji/48/e-mail.png" alt="e-mail"/><a/>
+  
+</div>
+
