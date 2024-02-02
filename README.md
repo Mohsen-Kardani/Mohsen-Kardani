@@ -7,11 +7,13 @@ In my quest for a holistic learning experience, I actively participated in sever
 
 Currently, I am looking for a dynamic and committed team environment to further enhance my expertise and contribute to the collective success of the company. My desire is to continue a continuous learning journey, collaborate with like-minded professionals and play an active role in advancing the company's goals and creating a thriving work environment.
 ***
+<div display="flex" >
+  
+<img  display="flex"  width="auto" height="330px" src="https://github.com/Mohsen-Kardani/Mohsen-Kardani/blob/main/Mastery.jpg?raw=true"/>
 
-<img  align="center"  width="auto" height="330px" src="https://github.com/Mohsen-Kardani/Mohsen-Kardani/blob/main/Mastery.jpg?raw=true"/>
-
-***
+<img display="flex" width="auto" height="330px"  src="https://github.com/Mohsen-Kardani/Mohsen-Kardani/blob/main/Aesthetic%20Study%20Space.jpg?raw=true" />
 <h2 align="left">skills</h2>
+</div>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
