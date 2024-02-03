@@ -32,19 +32,18 @@ Currently, I am looking for a dynamic and committed team environment to further 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-________________________________________________________________________
-<div display="flex" justify_content="space-between" > 
-React | <img display="flex" align="center" width="48" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  30%  
-React | <img display="flex" align="center" width="48" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  30%  
-React | <img display="flex" align="center" width="48" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  30%  
-</div> 
----------------
-<div display="flex" justify_content="space-between" > 
-React | <img display="flex" align="center" width="48" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  30%  
-React | <img display="flex" align="center" width="48" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  30%  
-React | <img display="flex" align="center" width="48" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  30%  
 </div>
 
+<div display="flex" width="500px" height="200px" > 
+React<img display="flex" align="center" width="60px" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  30% <br>
+Tailwind<img display="flex" align="center" width="80px" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  40% <br>
+HTML<img display="flex" align="center" width="200px" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  100%  
+</div> 
+<div display="flex" width="500px" height="200px"  > 
+JavaScript<img display="flex" align="center" width="100px" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  50% <br> 
+Github<img display="flex" align="center" width="100px" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  50% <br>  
+Python<img display="flex" align="center" width="40px" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  20% <br>
+Css<img display="flex" align="center" width="160px" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  80%  
 </div>
 
 <h2>Social media</h2>
