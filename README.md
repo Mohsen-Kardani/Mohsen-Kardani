@@ -7,7 +7,8 @@ In my quest for a holistic learning experience, I actively participated in sever
 
 Currently, I am looking for a dynamic and committed team environment to further enhance my expertise and contribute to the collective success of the company. My desire is to continue a continuous learning journey, collaborate with like-minded professionals and play an active role in advancing the company's goals and creating a thriving work environment.
 ***
-<div display="flex" justify-content="space-between" >
+
+<div display="flex" justify_content="space-between" align="center" >
   
 <img  display="flex"  width="auto" height="330px" src="https://github.com/Mohsen-Kardani/Mohsen-Kardani/blob/main/Mastery.jpg?raw=true"/>
 
@@ -15,9 +16,13 @@ Currently, I am looking for a dynamic and committed team environment to further 
 
 <img display="flex" width="auto" height="330px"  src="https://github.com/Mohsen-Kardani/Mohsen-Kardani/blob/main/Aesthetic%20Study%20Space.jpg?raw=true" />
 
-<h2 align="left">skills</h2>
+<img display="flex" width="auto" height="330px"  src="https://github.com/Mohsen-Kardani/Mohsen-Kardani/blob/main/WARM.jpg?raw=true" />
+
 </div>
 
+<h2 align="left">skills</h2>
+<div align="center">
+  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -27,17 +32,28 @@ Currently, I am looking for a dynamic and committed team environment to further 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-___
+________________________________________________________________________
+<div display="flex" justify_content="space-between" > 
+React | <img display="flex" align="center" width="48" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  30%  
+React | <img display="flex" align="center" width="48" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  30%  
+React | <img display="flex" align="center" width="48" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  30%  
+</div> 
+---------------
+<div display="flex" justify_content="space-between" > 
+React | <img display="flex" align="center" width="48" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  30%  
+React | <img display="flex" align="center" width="48" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  30%  
+React | <img display="flex" align="center" width="48" height="40" src="https://img.icons8.com/color/48/horizontal-line.png" alt="horizontal-line"/>  30%  
+</div>
+
+</div>
+
 <h2>Social media</h2>
-<div display="flex" >
+<div display="flex" align="center" >
 
-<a><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/><a/>
-
-<a><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/><a/>
-
-<a><img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app.png" alt="telegram-app"/><a/>
-
-<a><img width="48" height="48" src="https://img.icons8.com/emoji/48/e-mail.png" alt="e-mail"/><a/>
+<a href="in/mohsen-kardani-90b244232"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/><a/>
+<a href="kardanimohsen76"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/><a/>
+<a href="https://t.me/mohhhhseen"><img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app.png" alt="telegram-app"/><a/>
+<a href="kardanimohsen76@gmail.com"><img width="48" height="48" src="https://img.icons8.com/emoji/48/e-mail.png" alt="e-mail"/><a/>
   
 </div>
 
