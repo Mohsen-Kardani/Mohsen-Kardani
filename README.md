@@ -16,8 +16,6 @@ Currently, I am looking for a dynamic and committed team environment to further 
 
 <img display="flex" width="auto" height="330px"  src="https://github.com/Mohsen-Kardani/Mohsen-Kardani/blob/main/Aesthetic%20Study%20Space.jpg?raw=true" />
 
-<img display="flex" width="auto" height="330px"  src="https://github.com/Mohsen-Kardani/Mohsen-Kardani/blob/main/WARM.jpg?raw=true" />
-
 </div>
 
 <h2 align="left">skills</h2>
